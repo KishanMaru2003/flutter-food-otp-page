@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><title>My Flutter Food App</title>
+<meta name="fast2sms" content="XwzOuFamrYtQySqGl8vwS7FPlfflVi6V">
+</head>
+<body>
+  <h1>Welcome to My Flutter Food App</h1>
+  <p>This app will offer food delivery and includes OTP verification for login.</p>
+  <p>Contact: foodapp@gmail.com</p>
+
+  <h3>OTP Verification (Demo)</h3>
+  <input type="text" placeholder="Enter phone number" />
+  <button>Send OTP</button>
+</body>
+</html>
